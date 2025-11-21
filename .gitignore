@@ -1,0 +1,29 @@
+# Compiled class files
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven / Gradle (se usar futuramente)
+target/
+build/
+.gradle/
+.mvn/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.tmp
+
+# IDEs
+.idea/
+out/
